@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Fabian, a dual Student in informatics from Hamburg 🇩🇪.
+I am Fabian, a dual Student in informatics from Hamburg :de:.
 
 <!--
 **FForthmann/FForthmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

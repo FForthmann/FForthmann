@@ -9,3 +9,4 @@ At the moment involved in learning:
 - 🏝️ Java
 - 🤖 Python
 - 📈 Tableau
+- 💽 C#

@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Fabian, a dual student of Applied Computer Science from Hamburg, Germany.
+I am Fabian, a dual student of Applied Computer Science from Hamburg, Germany 🥨.
 
 *Fulltime scout 🏕️ and lifelong learner 📚.*
 

@@ -2,6 +2,14 @@
 
 I am Fabian, a Dual student of Applied Computer Science from Hamburg, Germany.
 
+*Fulltime scout 🏕️ and lifelong learner 📚.*
+
+At the moment involved in learning:
+
+- 🏝️ Java
+- 🤖 Python
+- 📈 Tableau
+
 <!--
 **FForthmann/FForthmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -12,4 +12,4 @@ At the moment I am involved in learning:
 
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=FForthmann.FForthmann)
+![](https://visitor-badge.glitch.me/badge?page_id=FForthmann.FForthmann) ![Profile views](https://gpvc.arturio.dev/FForthmann)

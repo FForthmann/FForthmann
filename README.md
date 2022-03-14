@@ -8,6 +8,6 @@ I am Fabian, a Consultant und Data Scientist studying Applied Data Science in Ha
 
 At the moment I am involved in learning:
 
+- 🧮 R 
 - 🤖 Python
 - 📈 Tableau
-- 🧮 R 

@@ -4,7 +4,7 @@ I am Fabian, a Consultant und Data Scientist studying Applied Data Science in Ha
 
 *Fulltime scout 🏕️ and lifelong learner 📚.*
 
-At the moment I am involved in learning:
+At the moment I am involved in working with:
 
 - 🧮 R 
 - 🤖 Python

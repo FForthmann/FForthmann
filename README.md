@@ -1,6 +1,6 @@
 ### Hi there!
 
-I am Fabian, a Consultant und Data Scientist studying Applied Data Science in Hamburg, Germany.
+I am Fabian, a Senior Consultant und Data Scientist from Hamburg, Germany.
 
 *Fulltime scout 🏕️ and lifelong learner 📚.*
 
